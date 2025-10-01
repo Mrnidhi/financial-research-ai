@@ -91,18 +91,3 @@ Extensibility
 Sample output
 - A 5-section professional report including Executive Summary, performance history, challenges/opportunities, recent news, and forward outlook.
 
-Suggested real-world enhancements
-- Plug in financial data sources (e.g., SEC, Yahoo Finance, Bloomberg APIs)
-- Add RAG with a vector store for firm knowledge bases
-- Add FastAPI for serving report generation as a microservice
-- Add CI/CD and containerization for cloud deployment
-
-## Support
-
-For support, questions, or feedback regarding the FinancialResearcher Crew or crewAI.
-- Visit our [documentation](https://docs.crewai.com)
-- Reach out to us through our [GitHub repository](https://github.com/joaomdmoura/crewai)
-- [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
-- [Chat with our docs](https://chatg.pt/DWjSBZn)
-
-Let's create wonders together with the power and simplicity of crewAI.
